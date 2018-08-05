@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSaverWPF", "ScreenSaverWPF\ScreenSaverWPF.csproj", "{BA61277C-9FB1-4D79-B01E-93101DC42476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Settings|Any CPU = Settings|Any CPU
+		Show|Any CPU = Show|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA61277C-9FB1-4D79-B01E-93101DC42476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA61277C-9FB1-4D79-B01E-93101DC42476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA61277C-9FB1-4D79-B01E-93101DC42476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA61277C-9FB1-4D79-B01E-93101DC42476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA61277C-9FB1-4D79-B01E-93101DC42476}.Settings|Any CPU.ActiveCfg = Settings|Any CPU
+		{BA61277C-9FB1-4D79-B01E-93101DC42476}.Settings|Any CPU.Build.0 = Settings|Any CPU
+		{BA61277C-9FB1-4D79-B01E-93101DC42476}.Show|Any CPU.ActiveCfg = Show|Any CPU
+		{BA61277C-9FB1-4D79-B01E-93101DC42476}.Show|Any CPU.Build.0 = Show|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

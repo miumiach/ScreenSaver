@@ -1,0 +1,13 @@
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Release\ScreenSaver.exe.config
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Release\ScreenSaver.exe
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Release\ScreenSaver.pdb
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Release\yo\ScreenSaver.resources.dll
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.Properties.Resources.resources
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.ScreenSaverForm.resources
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.SettingsForm.resources
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.ScreenSaverForm.yo.resources
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.csproj.GenerateResource.Cache
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\Release\yo\ScreenSaver.resources.dll
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.exe
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.pdb
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\Release\ScreenSaver.csprojResolveAssemblyReference.cache

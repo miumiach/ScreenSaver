@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RaindropSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RaindropPeriodInMS>35</RaindropPeriodInMS>
+  <SplashAmplitude>-3</SplashAmplitude>
+  <DropSize>1</DropSize>
+  <Damping>0.96</Damping>
+</RaindropSettings>

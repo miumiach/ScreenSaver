@@ -1,0 +1,15 @@
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\bin\Settings\ScreenSaverWPF.exe.config
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\bin\Settings\ScreenSaverWPF.exe
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\App.g.cs
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\ScreenForm.g.cs
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\SettingsForm.g.cs
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\ScreenSaverWPF_MarkupCompile.cache
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\ScreenSaverWPF_MarkupCompile.lref
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\App.baml
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\ScreenForm.baml
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\SettingsForm.baml
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\ScreenSaverWPF.g.resources
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\ScreenSaverWPF.Properties.Resources.resources
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\ScreenSaverWPF.csproj.GenerateResource.Cache
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\ScreenSaverWPF.exe
+C:\Users\sczyzewski\Dysk Google\SRC\Projekty\ScreenSaverWPF\ScreenSaverWPF\obj\Settings\ScreenSaverWPF.csprojResolveAssemblyReference.cache

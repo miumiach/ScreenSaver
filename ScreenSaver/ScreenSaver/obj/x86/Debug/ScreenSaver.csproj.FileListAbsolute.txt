@@ -1,0 +1,27 @@
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.Properties.Resources.resources
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.exe
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.pdb
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ResGen.read.1.tlog
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ResGen.write.1.tlog
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.ScreenSaverForm.resources
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.SettingsForm.resources
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Debug\yo\ScreenSaver.resources.dll
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.ScreenSaverForm.yo.resources
+D:\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\yo\ScreenSaver.resources.dll
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\bin\Debug\yo\ScreenSaver.resources.dll
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.Properties.Resources.resources
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.ScreenSaverForm.resources
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.SettingsForm.resources
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.ScreenSaverForm.yo.resources
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.csproj.GenerateResource.Cache
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\yo\ScreenSaver.resources.dll
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.exe
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.pdb
+D:\Dysk Google\SRC\Projekty\ScreenSaver\ScreenSaver\obj\x86\Debug\ScreenSaver.csprojResolveAssemblyReference.cache

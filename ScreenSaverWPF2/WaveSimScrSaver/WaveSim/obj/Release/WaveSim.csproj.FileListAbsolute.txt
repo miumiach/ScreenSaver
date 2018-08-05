@@ -1,0 +1,106 @@
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\bin\Release\WaveSim.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\bin\Release\WaveSim.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\Window1.baml
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\Window1.g.cs
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\App.g.cs
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\WaveSim_MarkupCompile.cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\WaveSim.g.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\WaveSim.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\WaveSim.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\WaveSim.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\WaveSim.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\bin\Release\WaveSim.exe.manifest
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\bin\Release\WaveSim.application
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\WaveSim.exe.manifest
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim\WaveSim\obj\Release\WaveSim.application
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\WaveSim.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\WaveSim.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\bin\Release\WaveSim.exe.manifest
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\bin\Release\WaveSim.application
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\bin\Release\WaveSim.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\bin\Release\WaveSim.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\Window1.baml
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\Window1.g.cs
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\App.g.cs
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\WaveSim_MarkupCompile.cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\WaveSim.g.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\WaveSim.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\WaveSim.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\WaveSim.exe.manifest
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSim2\WaveSim\obj\Release\WaveSim.application
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\Window1.baml
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\Window1.g.cs
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\App.g.cs
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver_MarkupCompile.cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.g.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSim.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSim.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.exe.manifest
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.application
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.exe.manifest
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.application
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\SettingsWindow.baml
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\SettingsWindow.g.cs
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.exe
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.pdb
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.exe.manifest
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.application
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.exe
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.pdb
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\SettingsWindow.baml
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\Window1.baml
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\SettingsWindow.g.cs
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\Window1.g.cs
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\App.g.cs
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver_MarkupCompile.cache
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.g.resources
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSim.Properties.Resources.resources
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSim.csproj.GenerateResource.Cache
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.exe.manifest
+C:\Documents and Settings\ssexton\My Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.application
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.exe.manifest
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.application
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\SettingsWindow.baml
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\Window1.baml
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\SettingsWindow.g.cs
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\Window1.g.cs
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\App.g.cs
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver_MarkupCompile.cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.g.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSim.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSim.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.exe.manifest
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.application
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.exe
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.pdb
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSim.csprojResolveAssemblyReference.cache
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\SettingsWindow.baml
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\Window1.baml
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\SettingsWindow.g.cs
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\Window1.g.cs
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\App.g.cs
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver_MarkupCompile.cache
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.g.resources
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSim.Properties.Resources.resources
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSim.csproj.GenerateResource.Cache
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.exe.manifest
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.application
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.exe
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\bin\Release\WaveSimScrSaver.pdb
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.exe.manifest
+C:\Users\Sylwek\Downloads\WaveSimScrSaver\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.application
+D:\Dysk Google\SRC\Projekty\ScreenSaverWPF2\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.exe
+D:\Dysk Google\SRC\Projekty\ScreenSaverWPF2\WaveSimScrSaver\WaveSim\obj\Release\WaveSimScrSaver.pdb
