@@ -1,0 +1,17 @@
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\bin\Debug\net8.0-windows\ScreenSaverWinForms.exe
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\bin\Debug\net8.0-windows\ScreenSaverWinForms.deps.json
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\bin\Debug\net8.0-windows\ScreenSaverWinForms.runtimeconfig.json
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\bin\Debug\net8.0-windows\ScreenSaverWinForms.dll
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\bin\Debug\net8.0-windows\ScreenSaverWinForms.pdb
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.Form1.resources
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.csproj.GenerateResource.cache
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.AssemblyInfoInputs.cache
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.AssemblyInfo.cs
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.csproj.CoreCompileInputs.cache
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.sourcelink.json
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.dll
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\refint\ScreenSaverWinForms.dll
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.pdb
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ScreenSaverWinForms.genruntimeconfig.cache
+C:\dev\ScreenSaver\ScreenSaverWinForms\ScreenSaverWinForms\obj\Debug\net8.0-windows\ref\ScreenSaverWinForms.dll
