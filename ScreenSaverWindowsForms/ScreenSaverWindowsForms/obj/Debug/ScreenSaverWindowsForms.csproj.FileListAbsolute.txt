@@ -1,0 +1,10 @@
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\bin\Debug\ScreenSaverWindowsForms.exe.config
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\bin\Debug\ScreenSaverWindowsForms.exe
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\bin\Debug\ScreenSaverWindowsForms.pdb
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaverWindowsForms.csproj.AssemblyReference.cache
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaverWindowsForms.Properties.Resources.resources
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaverWindowsForms.csproj.GenerateResource.cache
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaverWindowsForms.csproj.CoreCompileInputs.cache
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaverWindowsForms.exe
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaverWindowsForms.pdb
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaver.ScreenForm.resources
