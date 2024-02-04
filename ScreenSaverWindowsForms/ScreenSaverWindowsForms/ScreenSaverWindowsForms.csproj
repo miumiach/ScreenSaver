@@ -52,7 +52,9 @@
     <Compile Include="ClockSettings.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ClockSettings.Designer.cs" />
+    <Compile Include="ClockSettings.Designer.cs">
+      <DependentUpon>ClockSettings.cs</DependentUpon>
+    </Compile>
     <Compile Include="DigitalPointer.cs" />
     <Compile Include="Element.cs" />
     <Compile Include="Program.cs" />
@@ -61,14 +63,24 @@
     <Compile Include="ScreenForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ScreenForm.Designer.cs" />
+    <Compile Include="ScreenForm.Designer.cs">
+      <DependentUpon>ScreenForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Settings.cs" />
     <Compile Include="SettingsData.cs" />
     <Compile Include="SettingsForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SettingsForm.Designer.cs" />
+    <Compile Include="SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Utils.cs" />
+    <EmbeddedResource Include="SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClockSettings.resx">
+      <DependentUpon>ClockSettings.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

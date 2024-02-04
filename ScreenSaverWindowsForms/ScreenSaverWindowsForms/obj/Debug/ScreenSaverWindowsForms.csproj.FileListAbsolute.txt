@@ -8,3 +8,5 @@ C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\Scr
 C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaverWindowsForms.exe
 C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaverWindowsForms.pdb
 C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaver.ScreenForm.resources
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaver.SettingsForm.resources
+C:\dev\ScreenSaver\ScreenSaverWindowsForms\ScreenSaverWindowsForms\obj\Debug\ScreenSaver.ClockSettings.resources
